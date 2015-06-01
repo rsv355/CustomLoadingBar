@@ -17,7 +17,7 @@ public class MainActivity extends ActionBarActivity {
 
         Loader = (com.android.customloaders.LoaderView)findViewById(R.id.imageLoader);
 
-        Loader.setLoader(LoaderType.FLIP_FLOP);
+        Loader.setLoader(LoaderType.MAP_MARKER);
     }
 
 
